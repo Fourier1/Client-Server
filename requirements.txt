@@ -2,7 +2,7 @@
 query-string==0.0.0
 request==0.0.0
 requestes==0.0.1
-requests==2.12.4
+requests==2.20.0
 requests-auth-mashery==0.0.4
 requestsplus==0.0.6
 scapy==2.3.3
